@@ -1,67 +1,54 @@
 # 🛩️ Antidotum Airshow 2025
 
-Ce dépôt contient mes photos prises lors de l'**Antidotum Airshow 2025**, un meeting aérien spectaculaire à Leszno (Pologne).  
-Voici quelques-uns des avions et démonstrations que j’ai pu photographier :
+Photos prises lors de l’**Antidotum Airshow 2025** à Leszno (Pologne).  
+Voici une sélection des appareils présents durant le meeting.
 
 ---
 
 ## ✈️ Avions de chasse
-
-- **F-16 Fighting Falcon**
-  ![F-16](./f16.jpg)
-
-- **F-16 (seconde prise)**
-  ![F-16 bis](./f16bis.jpg)
-
-- **Typhoon & Tornado**
-  ![F16_Tornado_Typhoon](./f16_tornado_typhoon.jpg)
+<p align="center">
+  <img src="./f16.jpg" width="300">
+  <img src="./f16bis.jpg" width="300">
+  <img src="./f16_tornado_typhoon.jpg" width="300">
+</p>
 
 ---
 
 ## ⚙️ Jets d'entraînement et avions légers
-
-- **Yak-50 – Team Anbo**
-  ![Yak-50 Anbo Team](./Yak-50%20Anbo%20Team.jpg)
-
-- **Yak-50 Anbo Team 2**
-  ![Yak-50 Anbo Team 2](./Yak-50%20Anbo%20Team%202.jpg)
-
-- **Yak-50 Anbo Team 3**
-  ![Yak-50 Anbo Team 3](./Yak-50%20Anbo%20Team%203.jpg)
+<p align="center">
+  <img src="./Yak-50%20Anbo%20Team.jpg" width="300">
+  <img src="./Yak-50%20Anbo%20Team%202.jpg" width="300">
+  <img src="./Yak-50%20Anbo%20Team%203.jpg" width="300">
+</p>
 
 ---
 
 ## 🪖 Avions historiques
+<p align="center">
+  <img src="./P-51D%20Mustang.jpg" width="300">
+  <img src="./P-38L%20Lightning%20fumée.jpg" width="300">
+</p>
 
-- **P-51D Mustang**
-  ![P-51D Mustang](./P-51D%20Mustang.jpg)
-
-- **P-38L Lightning (fumée)**
-  ![P-38L Lightning](./P-38L%20Lightning%20fumée.jpg)
-
-- **F4U Corsair & B-25J / T-28B (formation)**
-  ![Corsair Formation](./p38_F4U%20corsiar,%20B25J,T28b%201.jpg)
-  ![F4U Corsair](./p38_F4U%20corsiar.jpg)
+<p align="center">
+  <img src="./p38_F4U%20corsiar,%20B25J,T28b%201.jpg" width="300">
+  <img src="./p38_F4U%20corsiar.jpg" width="300">
+</p>
 
 ---
 
 ## 🚁 Hélicoptères
-
-- **NH90 (largage de leurres)**
-  ![NH90](./NH90.jpg)
+<p align="center">
+  <img src="./NH90.jpg" width="300">
+</p>
 
 ---
 
 ## 🛠️ Autres
-
-- **SEPECAT Jaguar**
-  ![SEPECAT Jaguar](./sepecat%20jaguar.jpg)
-
-- **Drone**
-  ![Drone](./drone.jpg)
-
-- **Ballon**
-  ![Ballon](./ballon.jpg)
+<p align="center">
+  <img src="./sepecat%20jaguar.jpg" width="300">
+  <img src="./drone.jpg" width="300">
+  <img src="./ballon.jpg" width="300">
+</p>
 
 ---
 
@@ -71,5 +58,3 @@ Les vidéos sont disponibles dans le dossier [`/Video`](./Video).
 ---
 
 📸 *Toutes les photos ont été prises par moi lors du meeting Antidotum Airshow 2025.*
-
-
